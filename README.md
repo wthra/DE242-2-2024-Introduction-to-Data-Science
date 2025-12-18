@@ -19,7 +19,7 @@ https://www.canva.com/design/DAGinobJtQI/ebmqZiGv59vKTSpZKrWyGA/edit?utm_content
 
 # 🎙️ Deepfake Audio Detection using CNN + BiLSTM
 
-![Deepfake Audio](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Spectrogram-19thC.png/640px-Spectrogram-19thC.png)
+[Deepfake Audio]
 โปรเจกต์นี้มีจุดประสงค์เพื่อพัฒนาโมเดล Deep Learning สำหรับตรวจจับเสียงสังเคราะห์ (Deepfake Audio / AI-Generated Speech) โดยใช้สถาปัตยกรรมแบบผสมผสานระหว่าง **CNN (Convolutional Neural Networks)** และ **Bi-LSTM (Bidirectional Long Short-Term Memory)** เพื่อวิเคราะห์คุณลักษณะของเสียงทั้งในเชิงพื้นที่ (Spatial) และเชิงเวลา (Temporal)
 
 ## 📌 สารบัญ
